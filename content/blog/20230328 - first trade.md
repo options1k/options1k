@@ -3,7 +3,7 @@ title: First trade, first profits
 description: First trade, first profits
 date: 2023-03-28
 tags:
-  - trade
+  - trades
 permalink: "/{{ title | slugify }}/"
 ---
 

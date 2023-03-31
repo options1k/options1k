@@ -2,7 +2,7 @@
 layout: layouts/base.njk
 eleventyNavigation:
   key: About
-  order: 3
+  order: 5
 ---
 # About
 
@@ -28,7 +28,7 @@ Got bored during COVID pandemic and started trying to trade options.  Made aroun
 
 Proceeded to lose well over $50k cash during the market downturn in 2022.  I realized that I was not a genius.  In fact, I had no idea what I was doing! 
 
-So, I decided to start this blog to record my attempt to learn how to actually consistently make money trading options.
+So, I decided to start this blog to record my attempt to actually learn how consistently make money trading options.
 
 ### Starting point 
 As I start this blog (March 2023), my trading account has a net worth of around $30k (USD).
