@@ -44,10 +44,11 @@ My current capital is about 30k, so my **max risk per trade is about $600**.
 
 My exit rule is to cut losses at 200% of collected premium.  Since my max risk/loss is $600, **my target for initial premium collected is $300**. 
 
-If the premium collected per option spread is $50, then I should sell 6 options.  I would take profits when I can buy back the position at $25 per spread (i.e. 50% profit target).
+**Example**
+If the premium collected per option combo is $50, then I should sell 6 options ($300 collected).  I would take profits when I can buy back the position at $25 per spread (i.e. 50% profit target).  I would cut my losses when the premium is at $150 (i.e. $900 cost - $300 collected premium = $600 net loss).
 
 ## General rules
-1. Be disciplined, follow your rules
-2. Be patient, no need to trade everyday
+1. Be disciplined, follow the rules
+2. Be patient, no need to trade everyday if there's nothing good
 3. Be disciplined (reminder 🤓)
 

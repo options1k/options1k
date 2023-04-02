@@ -1,0 +1,10 @@
+---
+title: What are options
+description: Starting at the beginning. What are stock options?
+date: 2023-03-31
+tags:
+  - basics
+permalink: "/{{ title | slugify }}/"
+draft: true
+---
+
