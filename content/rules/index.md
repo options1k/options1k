@@ -15,7 +15,7 @@ I only sell bull put spreads or bear call spreads right now, so these are the ru
 ## Bull Put Credit Spread 
 ### Entry rules
 1. Probability of profit (i.e. Probability out of the money) > 75%
-2. Implied volatility percentile > 30%
+2. Implied volatility percentile > 50%
 3. High liquidity (Open interest > 300)
 4. Bid Ask Spread < $1
 6. Expiry in 35-60 days
