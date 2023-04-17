@@ -4,7 +4,6 @@ description: Trades opened/closed the week of 04/10 - 04/14
 date: 2023-04-16
 tags:
   - trades
-# permalink: "/{{ title | slugify }}/"
 permalink: "trades-april-10-14"
 ---
 
