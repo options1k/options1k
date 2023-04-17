@@ -37,7 +37,7 @@ I opened one Bull Put Spread (BPS), and two Bear Call Spreads (BCS) this week.
   **Notes**:<br />
     Undisciplined entry. I tried opening a position the week before, but my order didn't get filled -- probably limit price was too high.  I was annoyed, so chased the trade into this week. Entered the trade even though it was no longer optimal based on stochastics and price level.
     
-    GLD is currently near an all time high, so was thinking there would be a pullback.  But, it is also in a strong uptrend, seems to be holding the 20-period MA.
+    GLD is currently near an all time high, so was thinking there would be a pullback.  But, it is also in a strong uptrend, seems to be holding the 20-period MA.  We'll see what happens
 
 ### 2. **ETSY** (*BPS*)
   - Opened: 04/12/2023
@@ -76,7 +76,7 @@ Happy to close 3 positions, all for profit 😎
   - Net Profit (after commissions): $31
 <br /><br >
   **Notes**:
-    This trade idea was taken from Gin Lim at passiveseeds.com
+    This trade idea was taken from Gin Lim at passiveseeds.com.  Worked out well, though should've upped the volume.
 
 ### 2. **COIN** (BPS)
   - Opened: 03/30/2023
@@ -90,7 +90,7 @@ Happy to close 3 positions, all for profit 😎
   **Notes**:
     Took my profit a bit early.  COIN is super volatile, so I figured I might as well lock it in while I could.  If I waited for my 50% limit to trigger, I would've only made another few bucks anyways.
 
-### 2. **AMZN** (BCS)
+### 3. **AMZN** (BCS)
   - Opened: 04/04/2023
   - Closed: 04/12/2023
   - Total days: 8
@@ -100,7 +100,7 @@ Happy to close 3 positions, all for profit 😎
   - Net Profit (after commissions): $72
 <br /><br />
   **Notes**:
-    Opened this position just <a href="/this-week-s-trades-apr-3-7-2023/">last week</a>.  Managed to get my full 50% profit.  Timing and entry seemed excellent...I guess you get lucky sometimes.
+    Opened this position just <a href="/this-week-s-trades-apr-3-7-2023/">last week</a>.  Similar to COIN, closed it a tiny bit earlier, leaving a few bucks on the table.  Otherwise, timing and entry seemed excellent...I guess you get lucky sometimes.
 
 
 ## Other Notes and Thoughts
