@@ -38,19 +38,19 @@ Everything the same as Bull Put Spread, except:
 - take loss if resistance is broken (exit rule #3)
 
 ## Risk level + trade sizing
-2% risk per trade based on exit plan.  
+1% risk per trade based on exit plan.  
 
-My current capital is about 30k, so my **max risk per trade is about $600**.
+My current capital is about 30k, so my **max risk per trade is about $300**.
 
-My exit rule is to cut losses at 200% of collected premium.  Since my max risk/loss is $600, **my target for initial premium collected is $300**. 
+My exit rule is to cut losses at 200% of collected premium, and take profits at 50%.  Since my max risk/loss is $300, **my target for initial premium collected is $150**. 
 
 **Example**
-If the premium collected per option sold is $50, then I should sell 6 options (i.e. $300 collected).  
-I would take profits when I can buy back the position at $25 per spread (i.e. 50% profit target = $150 ).  
-I would cut my losses when the premium is at $150 (i.e. $900 cost - $300 collected premium = $600 net loss).
+If the premium collected per option sold is $50, then I should sell 3 options (i.e. $150 collected).  
+I would take profits when I can buy back the position at $25 per spread (i.e. 50% profit target = $75 profit).  
+I would cut my losses when the premium is at $150 (i.e. $450 cost - $150 collected premium = $300 net loss).
 
 ## General rules
-1. Be disciplined, follow the rules
+1. Be disciplined, follow the rules  for entry, exit, and sizing
 2. Be patient, no need to trade everyday if there's nothing good
 3. Be disciplined (reminder 🤓)
 
