@@ -15,7 +15,7 @@ I only sell bull put spreads or bear call spreads right now, so these are the ru
 ## Bull Put Credit Spread 
 ### Entry rules
 1. Probability of profit (i.e. Probability out of the money) > 75%
-2. Implied volatility percentile > 50%
+2. Implied volatility percentile > 30%; preferablly > 50%
 3. High liquidity (Open interest > 300)
 4. Bid Ask Spread < $1
 6. Expiry in 35-60 days
@@ -23,7 +23,7 @@ I only sell bull put spreads or bear call spreads right now, so these are the ru
 5. Initial profit target (premium / spread-premium) > 15% 
 8. Stochastics are oversold (< 20), or RSI is oversold (< 30)
 9. Strike is below support
-10. Price is in uptrend, or flat
+10. Price is in uptrend, or flat/sideways range
 
 ### Exit rules
 1. Take profit at 50% of initial collected premium 
@@ -33,8 +33,8 @@ I only sell bull put spreads or bear call spreads right now, so these are the ru
 ## Bear Call Credit Spread
 Everything the same as Bull Put Spread, except:
 - look for OVERBOUGHT stochastics (entry rule #8), 
-- sell strike price ABOVE RESISTANCE (#9), and 
-- look for stock price to be in a possible DOWNTREND or flat (entry rule #10).
+- sell strike price ABOVE RESISTANCE (#9), 
+- look for stock price to be in a possible DOWNTREND or sideways range (entry rule #10),
 - take loss if resistance is broken (exit rule #3)
 
 ## Risk level + trade sizing

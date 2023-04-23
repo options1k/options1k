@@ -76,7 +76,7 @@ Closed 2 positions, one for my biggest loss so far.
   - Net Profit (after commissions): -$90.87
 <br /><br />
   **Notes**:
-    Was also not happy with <a href="/this-week-s-trades-apr-3-7-2023/">entry on this trade</a> as I completely looked at the chart wrong 😂.  After realizing this, I should have just exited right away, but I held on hoping and praying it would work out somehow.  It did not.    
+    Was also not happy with <a href="/this-week-s-trades-apr-3-7-2023/">entry on this trade</a> as I completely looked at the chart wrong 😂.  After realizing this, I should have just exited right away, but I held on hoping and praying it would work out somehow.  It did not.  Earnings next week, so decided it was time to pull the plug.
 
 
 
