@@ -15,7 +15,7 @@ I only sell bull put spreads or bear call spreads right now, so these are the ru
 ## Bull Put Credit Spread 
 ### Entry rules
 1. Probability of profit (i.e. Probability out of the money) > 75%
-2. Implied volatility percentile > 30%; preferablly > 50%
+2. Implied volatility percentile > 30%; preferably > 50%
 3. High liquidity (Open interest > 300)
 4. Bid Ask Spread < $1
 6. Expiry in 35-60 days
@@ -51,6 +51,7 @@ I would cut my losses when the premium is at $150 (i.e. $450 cost - $150 collect
 
 ## General rules
 1. Be disciplined, follow the rules  for entry, exit, and sizing
-2. Be patient, no need to trade everyday if there's nothing good
-3. Be disciplined (reminder 🤓)
+2. Review positions at end of every trading day to consider early exits.
+3. Be patient, no need to trade everyday if there's nothing good
+4. Be disciplined (reminder 🤓)
 

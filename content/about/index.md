@@ -40,7 +40,7 @@ For now, I will be mainly using Bear Call Spreads, and Bull Put Spreads.  They s
 
 ## Goals / Milestones
 
-- [ ] Make $100 per month
+- [x] Make $100 per month - *Completed: <a href="/how-i-made-288-in-april-2023/">April 2023</a>*
 - [ ] Make $500 per month
 - [ ] Make $1000 per month
 - [ ] Make $1000 per month for 2 months in a row

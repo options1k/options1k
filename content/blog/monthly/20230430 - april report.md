@@ -30,3 +30,4 @@ The other big loss was on `ATVI`, which I shouldn't have entered in the first pl
 
 One other major rule change I made for myself this month was to lower my risk per trade.  It was originally at 2%, but I realized I was not yet comfortable making trades at that level.  So, I've lowered it to 1%.  It will limit my profits, but allow me to make more trades and mistakes.
 
+Oh, also hit my <a href="/about/#goals-milestones">first goal</a> of making $100 per month.  Woohoo!
