@@ -16,7 +16,7 @@ It was only half a month really, because I made my first trade on March 14th.  S
 
 Here are the trades that were closed in March:
 <div class = "full-width">
-{% image "./march2023.png", "Trades closed in March 2023" %}
+{% image "img/march2023.png", "Trades closed in March 2023" %}
 </div>
 
 ## Notes / Learning points
