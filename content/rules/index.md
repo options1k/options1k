@@ -44,6 +44,8 @@ My current capital is about 30k, so my **max risk per trade is about $300**.
 
 My exit rule is to cut losses at 200% of collected premium, and take profits at 50%.  Since my max risk/loss is $300, **my target for initial premium collected is $150**. 
 
+Based on my rules, I need to win over 80% of my trades to be profitable.  It's not exact, as I may take wins/losses early, but it's a general target to aim for.
+
 **Example**
 If the premium collected per option sold is $50, then I should sell 3 options (i.e. $150 collected).  
 I would take profits when I can buy back the position at $25 per spread (i.e. 50% profit target = $75 profit).  
@@ -52,6 +54,6 @@ I would cut my losses when the premium is at $150 (i.e. $450 cost - $150 collect
 ## General rules
 1. Be disciplined, follow the rules  for entry, exit, and sizing
 2. Review positions at end of every trading day to consider early exits.
-3. Be patient, no need to trade everyday if there's nothing good
+3. Be patient, no need to trade everyday if there's nothing good.
 4. Be disciplined (reminder 🤓)
 
