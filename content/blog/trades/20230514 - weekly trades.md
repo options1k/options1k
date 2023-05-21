@@ -4,7 +4,7 @@ description: Trades opened/closed the week of May 8th
 date: 2023-05-14
 tags:
   - trades
-permalink: "/trades-2023-05-08-23/"
+permalink: "/trades-2023-05-08-12/"
 ---
 
 Another pretty slow week.  Traded some more short term expiry index options, and got out of a couple positions that weren't doing anything.
