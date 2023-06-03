@@ -283,3 +283,25 @@ h2 + .header-anchor {
 	justify-content: center;
 }
 
+
+.trade-table table {	
+	border-collapse: collapse;
+	border: 1px solid #333;
+	font-size: 12px;
+	display: block;
+    overflow-x: auto;
+    white-space: nowrap;
+}
+.trade-table table th, td {
+  padding: 7px;
+  text-align: left;
+}
+
+.trade-table table tbody tr:nth-child(4n+1) {
+	background:#f1f1f1; 
+}
+.trade-table table tbody tr:nth-child(4n+2) {
+	background:#f1f1f1; 
+}
+
+
