@@ -21,7 +21,7 @@ I mostly abondoned my trading rules (mainly cutting losses), and am now stuck wi
 The good news is that I managed to make $301 in May (closed trades).
 
 Here is a look at the positions that were closed ( in my new, cool table formatting):
-<div class="trade-table full-width">
+<div class="trade-table monthly full-width">
 
 |**Ticker**|**Action**|**Type**|**Trade Date**|**Expiry**|**Sell Strike**|**Buy Strike**|**Premium**|**Qty**|**Fees**|**Total**|**Net Profit/Loss**|**Days**|**Annual Return**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|

@@ -297,11 +297,13 @@ h2 + .header-anchor {
   text-align: left;
 }
 
-.trade-table table tbody tr:nth-child(4n+1) {
+.trade-table.monthly table tbody tr:nth-child(4n+1) {
 	background:#f1f1f1; 
 }
-.trade-table table tbody tr:nth-child(4n+2) {
+.trade-table.monthly table tbody tr:nth-child(4n+2)  {
 	background:#f1f1f1; 
 }
 
-
+.trade-table.weekly table tbody tr:nth-child(2n+1) {
+	background:#f1f1f1; 
+}
