@@ -1,5 +1,5 @@
 ---
-title: Week in review (Jun 12 - 16) - 
+title: Week in review (Jun 12 - 16) - SBUX, TGT, HD
 description: Review of trades from past week
 date: 2023-06-20
 tags:
