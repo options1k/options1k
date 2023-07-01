@@ -10,7 +10,6 @@ eleventyNavigation:
 
 I try to earn $1000 per month trading options. 💰
 
-<a href="https://options1k.substack.com/"><strong>Get my newsletter</strong></a> for weekly updates!
 
 ## Long version
 This blog records my attempt to make $1000 (USD) profit per month by trading stock options.  
