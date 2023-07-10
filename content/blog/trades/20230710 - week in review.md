@@ -42,9 +42,15 @@ Despite this, I still opened a bunch of new positions last week, and tested out 
 
 </div>
 
-## Closed:
-Only closed 1 position, which was a short term position anyways.
-- RUT
+## Closed / Assigned / Exercised:
+Closed a bunch of positions apart from GIS:
+- GIS (assigned/exercised)
+- SQ
+- TSLA (iron condor)
+- BABA
+- VZ
+- VZ (assigned / exercised)
+
 
 <div class = "trade-table weekly full-width">
 
