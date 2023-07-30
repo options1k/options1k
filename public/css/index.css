@@ -238,8 +238,10 @@ header {
 	flex-wrap: wrap;
 	gap: .5em;
 	list-style: none;
-	padding: 0;
+	padding: 0 0 16px 0;
 	margin: 0;
+	width: 100%;
+	border-bottom: 1px dashed var(--color-gray-20);
 }
 .post-metadata time {
 	margin-right: 1em;

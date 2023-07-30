@@ -1,0 +1,14 @@
+---
+layout: layouts/home.njk
+eleventyNavigation:
+  key: Strategies
+  order: 3
+permalink: /strategies/
+---
+<h1>Trading Strategies</h1>
+
+Here is a list of option strategies I currently use.  
+
+<h2>Credit Spread Strategies</h2>
+{% set postslist = collections[ "strategy" ] %}
+{% include "postslist.njk" %}

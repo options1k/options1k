@@ -3,6 +3,7 @@ layout: layouts/base.njk
 eleventyNavigation:
   key: Rules
   order: 3
+draft: true
 ---
 # My Trading Rules
 
