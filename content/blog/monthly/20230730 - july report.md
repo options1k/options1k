@@ -136,7 +136,7 @@ Here are all the closed trades from July; it's a mess:
 
 Over 80% of the losses came from just 4 trades -- `TGT`, `GIS`, `ADBE`, `VMW`
 
-2 were bearish positions (ADBE, VMW), and 2 were bullish positions (TGT, GIS)
+2 were bearish positions (`ADBE`, `VMW`), and 2 were bullish positions (`TGT`, `GIS`)
 
 I had the chance to cut losses multiple times on all of them, but never did.  I was hoping for a sudden reversal that never happened.  
 
