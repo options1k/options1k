@@ -11,7 +11,7 @@ Trying to take it slow the last couple weeks.
 
 Trying to be more selective with my trades.
 
-I only opened 8 positions the last 2 weeks.  
+I only opened 8 positions over the last two weeks (and just 2 positions this past week).
 
 Previously, I had been entering 8-10 positions per week.
 
@@ -56,6 +56,8 @@ I also closed a few trades.  Messed up the order on one of them (`EEM`), and onl
 |TSN|close|BCS|2023-07-28|2023-08-18|57.5|55|-1.25|2|0.5|-250.5|
 |EEM|open|BCS|2023-07-19|2023-09-15|43|45|0.28|1|1.41|26.59|$0.19|
 |EEM|close|BCS|2023-08-02|2023-09-15|45|43|-0.25|1|1.4|-26.4|
+|GLD|open|BCS|2023-07-20|2023-09-15|190|192|0.44|1|1.4|42.6|$18.50|
+|GLD|close|BCS|2023-07-27|2023-09-15|192|190|-0.22|1|2.1|-24.1|
 |MDT|open|BCS|2023-07-26|2023-09-15|95|97.5|0.33|4|2.81|129.19|$43.58|
 |MDT|close|BCS|2023-08-02|2023-09-15|97.5|95|-0.2|4|5.61|-85.61|
 |NFLX|open|BPS|2023-07-27|2023-09-15|385|380|1.05|2|2.12|207.88|$98.64|
