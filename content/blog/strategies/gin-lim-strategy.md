@@ -1,7 +1,7 @@
 ---
 title: Stochastics + Support/Resistance (Gin Lim Strategy)
 description: Strategy 1
-# date: 2023-04-25
+date: 2023-07-30
 tags:
   - strategy
 permalink: "/gin-lim-strategy/"
