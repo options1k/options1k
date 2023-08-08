@@ -50,6 +50,9 @@ If the premium collected per option sold is $50, then I should sell 3 options (i
 I would take profits when I can buy back the position at $25 per spread (i.e. 50% profit target = $75 profit).  
 I would cut my losses when the price of the option reaches $150 per spread (i.e. $450 cost - $150 collected premium = $300 net loss).
 
+### Allocation
+For now, I'm going to try to limit myself to 5-10 total positions.
+
 ## Summary / Pros / Cons
 The most important thing when using this strategy is to cut your losses.  Everything falls apart if you don't, as I <a href="/how-i-lost-2-986-in-july-2023-trading-options/">experienced</a>.
 
