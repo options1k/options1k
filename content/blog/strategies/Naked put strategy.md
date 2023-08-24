@@ -5,7 +5,7 @@ date: 2023-08-21
 tags:
   - strategy
 permalink: "/naked-put-strategy/"
-draft: true
+draft: false
 ---
 
 This is a naked put selling strategy that I have pieced together from <a href="https://www.passiveseeds.com">Gin Lim</a> and <a href="https://great-option-trading-strategies.com/">Brad Castro</a>
@@ -26,7 +26,7 @@ Still ironing out the details, but here's what I got so far.
 
 ### Entry rules
 1. Sell put at calculated target entry price (i.e. fundamentally attractive price that I want to own the stock at)
-2. Collected premium should give annualized return > 15% (e.g. put option with 30DTE should give at least 1.25% return)
+2. Collected premium should give annualized return > 15% (e.g. put option with 30DTE should have at least 1.25% return)
 3. 
 
 ### Exit options
@@ -39,7 +39,7 @@ There are a few exit options/outcomes for naked puts:
 - If stock price jumps up significantly in a short time, it will probably be worth it to close position early (based on annualized return).
 
 3. **Assigned** 
-- If stock is assigned, it is not a bad thing, because it is a company that I want to own for long term.  
+- If stock price drops below put strike and shares are assigned, it is not a bad thing, because it is a company that I want to own for long term.  
 - If something has changed in the company though that has fundamentally reduced target price, then I should just sell for a loss.
 - Otherwise, start selling call options on newly owned shares that generate 5% annualized cash flow
 - Sell all shares at calculated target exit price
