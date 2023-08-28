@@ -18,7 +18,7 @@ I am taking a more conservative approach this time, so won't blow up my account 
 This week, I successfully (?) took a few more losses:
 
 ## Opened:
-- CSCO
+- CSCO (naked put)
 - NKE
 - SPY
 - SQ
