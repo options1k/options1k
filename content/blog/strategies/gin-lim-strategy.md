@@ -63,3 +63,5 @@ When sticking to the rules, I have been mildly profitable.  Gin seems to do real
 The thing I don't like about this strategy is you have to look at your positions everyday to check if you need to exit or not.  Not a huge deal, but you can't completely set-it-and-forget-it. 
 
 Also, scanning and picking trades based on support/resisntance levels can be pretty subjective.
+
+Stochastic don't work well for stocks that are trending hard.  For example, in a a strong uptrend, indicators always show "overbought", but you really shouldn't short a stock that is in a strong uptrend.
