@@ -4,7 +4,7 @@ description: Review of trades from past week
 date: 2023-10-15
 tags:
   - trades
-permalink: "/trades-2023-10-15/"
+permalink: "/trades-2023-10-9/"
 ---
 
 Maybe the hardest part about trading is patience.
