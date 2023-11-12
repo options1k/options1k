@@ -60,11 +60,11 @@ This should work out to a bit under $5k of risk.
 Since there is no stop loss, I put the risk at the total of the spread.  For example, selling a 230/220 spread on `MCD` is $1000 of risk.
 
 ## Summary / Notes
-This trading strategy is an alternative to actually investing (i.e. buying shares) in solid, profitable companies.
+This trading strategy is basically an alternative to actually investing (i.e. buying shares) in solid, profitable companies.
 
 i.e. If I had a lot of money, I would probably just buy 100 shares of Visa.  At time of writing, it's around $245/share, so I would need $24,500 cash to do that.
 
-I *could* just buy a few shares, but then I would not be able to sell covered calls.
+I *could* just buy a few shares, but then I would not be able to sell covered calls on it.
 
 Optimally, this strategy will provide a steady source of income each month.  Almost like dividend payments.
 
