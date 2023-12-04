@@ -75,7 +75,7 @@ Here are my closed trades for the month:
 
 Nice profit this month.  The market has been super bullish, so if you were in bull positions, you feel like a genius. 🤓
 
-Only had two bear trades, and both lost.  If I didn't make those trades, I would've earned closed to $1000 this month.
+Only had two bear trades, and both lost.  If I didn't make those trades, I would've earned close to $1000 this month.
 
 I managed the cut my losses on them according to my rules though, so I am quite happy about that.
 
