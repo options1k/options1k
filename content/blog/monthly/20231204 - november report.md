@@ -77,7 +77,7 @@ Nice profit this month.  The market has been super bullish, so if you were in bu
 
 Only had two bear trades, and both lost.  If I didn't make those trades, I would've earned close to $1000 this month.
 
-I managed the cut my losses on them according to my rules though, so I am quite happy about that.
+I managed to cut my losses on them according to my rules though, so I am quite happy about that.
 
 ### MSFT
 <a href="/90dte-msft-strategy/">`MSFT`</a> continues to be my best performing strategy.  How long can the bull trend continue?  Who knows, but I'm going to keep going with it until it doesn't work anymore.
