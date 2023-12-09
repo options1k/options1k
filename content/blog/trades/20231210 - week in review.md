@@ -13,7 +13,7 @@ First one in awhile.
 
 Seems like my self-sabotage from <a href="/trades-2023-11-27/">last week</a> was successful.
 
-Still have a few more losing positions in my account, so next week's outlook isn't looking to positive either.
+Still have a few more losing positions in my account, so next week's outlook isn't looking too positive either.
 
 ## Opened
 
