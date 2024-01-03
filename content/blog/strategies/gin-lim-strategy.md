@@ -1,5 +1,5 @@
 ---
-title: Stochastics + Support/Resistance (Gin Lim Strategy)
+title: Stochastics + Trend + Support/Resistance (Gin Lim Strategy)
 description: Strategy 1
 date: 2023-07-30
 tags:
@@ -9,14 +9,14 @@ permalink: "/gin-lim-strategy/"
 This is an option selling strategy I adapted from Gin Lim over at <a href="https://passiveseeds.com/">passiveseeds.com</a>
 
 ## Basic overview
-Sell bull put spreads when stock is oversold and near support.  
-Sell bear call spreads when stock is overbought and near resistance.
+Sell bull put spreads when stock is in uptrend, stochastics oversold, and near support.  
+Sell bear call spreads when stock is in downtrend, stochastics overbought, and near resistance.
 
 ## Detailed Overview
 There's a lot more to it than that.  Here are the detailed entry, exit, and sizing rules:
 
 ### Entry rules
-1. Probability of profit (i.e. Probability out of the money) > 75%
+1. Probability of profit (i.e. Probability out of the money) > 75%, or Delta of sell leg < 0.25
 1. High liquidity (Open interest > 300)
 1. Tight Bid Ask Spread (< $1)
 1. Expiry in 40-60 days
@@ -24,7 +24,7 @@ There's a lot more to it than that.  Here are the detailed entry, exit, and sizi
 1. Initial profit target (premium / spread-premium) > 15% 
 1. Stochastics oversold (< 20) for puts; overbought (>80) for calls
 1. Strike is below support for puts; above resistance for calls
-1. Price is in uptrend for puts; downtrend for calls; or flat/sideways range
+1. Price is in uptrend for puts (50ma>150ma>200ma); downtrend for calls (50ma<150ma<200ma); or well definied flat/sideways range
 1. Other: When overall stock market is volatile, look for Implied Volatility Percentile > 30%
 
 ### Exit rules
