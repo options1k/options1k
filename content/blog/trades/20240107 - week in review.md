@@ -4,6 +4,7 @@ description: Review of trades from past week
 date: 2024-01-07
 tags:
   - trades
+  - weekly
 permalink: "/trades-2024-01-01/"
 ---
 
