@@ -50,7 +50,7 @@ Was trying to open a position on `AAPL`, but it gapped up crazy.
 
 - **Closed Net Profits/Loss**: $369.41
 
-Mistakenly only opened qty 1 on `AMAT` position.
+Mistakenly only had qty 1 on `AMAT` position, otherwise would've been 400+ profits.  Oh well.
 
 
 ## Notes and Lessons
