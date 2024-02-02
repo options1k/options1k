@@ -309,3 +309,17 @@ h2 + .header-anchor {
 .trade-table.weekly table tbody tr:nth-child(2n+1) {
 	background:#f1f1f1; 
 }
+
+.pl-table table, .pl-table td, .pl-table th {
+	border-collapse: collapse;
+	border: 1px solid #333;
+	font-size: 14px;
+	padding: 10px;
+	/* display: block; */
+	/* overflow-x: auto; */
+	/* white-space: nowrap; */
+}
+
+.pl-table table tbody tr:nth-child(2n) {
+	background:#f1f1f1; 
+}
