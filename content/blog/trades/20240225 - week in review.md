@@ -1,5 +1,5 @@
 ---
-title:  - Week in review (Feb 19 - Feb 23)
+title: Quiet Week - Week in review (Feb 19 - Feb 23)
 description: Review of trades from past week
 date: 2024-02-25
 tags:
