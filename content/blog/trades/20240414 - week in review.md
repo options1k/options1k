@@ -60,9 +60,9 @@ Maybe a sign of things to come?
 
 Despite the market going down, I still managed to make a small profit.  
 
-Mostly thanks to my weekly `SPY` position, which barely expired out of the money (i.e. for profits).
+Mostly thanks to my weekly `SPY` position, which barely expired out of the money (i.e. SPY closed at 410, my short put was at 409).
 
-Unfortunately, I have a ton of open bullish positions, a couple of which I may need to take a loss on soon.
+Unfortunately, I have a ton of open bullish positions, a couple of which I may be looking at closing for big losses soon.
 
 Also, realized that I have a bit too many open positions right now, so may not be doing much until I close a few (i.e. literally can't open more positions because account has no "excess liquidity").
 
