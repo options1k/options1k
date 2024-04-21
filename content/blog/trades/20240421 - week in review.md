@@ -59,5 +59,5 @@ Well, they could all drop more!
 
 Hesistation and undisciplined trading cost me a few extra hundred dollars.  I did finally cut them all, so that's a positive I guess?
 
-That's 3 down weeks in a row.  Let's see what next week brings.
+Market is down 3 weeks in a row.  I feel like it might take a break next week, but we'll see what happens..
 
