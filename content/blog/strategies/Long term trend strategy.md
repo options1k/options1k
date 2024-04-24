@@ -31,6 +31,7 @@ For now, here are the companies I will be using this strategy with:
 - **`V` (Visa)**
 - **`MCD` (McDonald's)**
 - **`PG` (Procter & Gamble)**
+- **`COST` (Costco)**
 
 I may add more in the future, but three is enough for now.  I also tried to select companies in different industries, although they're all kind of related.  Aren't we all?
 
@@ -40,6 +41,7 @@ Around the middle of each month, sell a 90 DTE bull put spread on the selected c
 - `V` : Sell put @ 0.15 delta; Buy put @ 0.10 delta
 - `MCD`: Sell put @ 0.15 delta; Buy put @ 0.10 delta
 - `PG`: Sell put @ 0.15 delta; Buy put @ 0.05 delta
+- `COST`: Sell put @ 0.15 delta; Buy put @ 0.10 delta
 
 
 ### Exit rules
@@ -49,6 +51,7 @@ Slightly different profit take target on each:
 - `V` : 50% profit take
 - `MCD`: 75% profit take
 - `PG`: 50-75% profit take
+- `COST`: 50-100% profit take
 
 *Note: May experiment with percentages a bit*
 
