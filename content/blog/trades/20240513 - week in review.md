@@ -8,13 +8,13 @@ tags:
 permalink: "/trades-2024-05-06/"
 ---
 
-Had a hugely profitable week (by my standards).
+Had a hugely profitable week (by my low standards).
 
-Probably one of my best weeks ever so far.
+Probably one of my best weeks ever so far actually.
 
-The market jumped up big, and a lot of my longer term spreads that I had been holdin
+The market jumped up big, and a lot of my longer term spreads that I had been holding for awhile closed.
 
-Took a few new positions this week:
+Also, took a few new positions this week:
 
 ## Opened
 
@@ -37,7 +37,7 @@ I've been looking to take some more bearish positions to balance out all the bul
 
 Looks like it might breaking out from its downtrend though. We'll see.
 
-Also rolled my `MCD` position out farther.  The company has not been doing so well recently.  I may think about just closing it for a loss soon.
+Also rolled one of my `MCD` position out farther.  The company has not been doing so well recently.  I may think about just closing it for a loss soon.
 
 ## Closed / Expired:
 
@@ -72,7 +72,7 @@ Very nice week for me, profit wise.
 
 A few positions that I had been holding for awhile (30+ days) finally closed (`MSFT`, `V`).
 
-Market seems to be continuing its bull trend after the past few down/flat weeks.
+Market seems to be going back into a bull trend after the past few down/flat weeks.
 
 We'll see if the trend continues or not.  Just going to keep sticking to the plan for now.
 
