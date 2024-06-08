@@ -44,7 +44,7 @@ Made a few trades based on <a href="https://optionalpha.com/">Option Alpha</a> "
 
 Randomly decided to trade an iron condor on futures `ES` (S&P futures).  Might consider trading futures more, because they're all cash-settled (i.e. no assignment risk)
 
-`VIX` is a long term hedge in case the market tanks.  
+`VIX` long call is a hedge in case the market tanks.  
 
 ## Closed / Expired:
 
@@ -62,13 +62,15 @@ Randomly decided to trade an iron condor on futures `ES` (S&P futures).  Might c
 |V|close|BPS|2024-06-05|2024-07-19|255|260|-0.57|2|2.8|-116.8|
 |NKE|open|BCS|2024-06-01|2024-07-19|100|105|1.16|1|1.4|114.6|$5.20|
 |NKE|close|BCS|2024-06-05|2024-07-19|105|100|-1.08|1|1.4|-109.4|
+|SPY|open|BCS|2024-06-01|2024-06-07|526|527|0.54|1|3.09|50.91|-$44.51|
+|SPY|close|BCS|2024-06-06|2024-06-07|527|526|-0.94|1|1.42|-95.4199999999999|
 |ES|open|BPS|2024-06-07|2024-06-07|5300|5295|0.5|0.5|2.84|22.16|$22.16|
 |ES|expired|BPS|2024-06-07|2024-06-07|5295|5300|0|0.5|0|0|
 |ES|open|BCS|2024-06-07|2024-06-07|5400|5405|1|0.5|2.84|47.16|$47.16|
 |ES|expired|BCS|2024-06-07|2024-06-07|5405|5400|0|0.5|0|0|
 </div>
 
-- **Closed Net Profits/Loss**: $334.95
+- **Closed Net Profits/Loss**: $290.44
 
 After getting assigned $27,500 position on `MCD`, my account had zero margin left to do anything.  
 
@@ -78,9 +80,13 @@ Unfortunately, I would have made a lot more if I just held a couple more days as
 
 ## Notes and Lessons
 
-Profitable week which will soften the blow a bit when I take a huge loss over the next week or two.
+Profitable week which will soften the blow a tiny bit when I take a huge loss over the next week or two.
 
-Still weighing my options on what to do with my shit `MCD` positions right now.  If I had just followed the original strategy, I would have let it close for a loss of a few hundred dollars.  Now, thanks to my genius, I'm sitting on a $2k loss.
+Still weighing my options on what to do with my shit `MCD` positions right now.  
+
+If I had just followed the original strategy, I would have let it close for a loss of a few hundred dollars.  
+
+Now, thanks to my genius, I'm sitting on a $2k loss.
 
 ### McDilemma
 Here is the situation:
@@ -98,12 +104,14 @@ Here are my choices right now:
 
 2. Keep the 100 shares, and close everything else
 
-- I still think McDonald's is a strong company, and it is quite undervalued at the current price level.  I could keep the shares (and debt) and continue selling covered calls on it, *hoping* that it will go up.  
-- The problem with this is that I will be paying interest on my negative cash balance until I sell. Also, it will kill my margin.  Also, the stock could tank farther, then I'm just really fucked.
+- I still think McDonald's is a strong company, and it is quite undervalued at the current price level.  I could keep the shares and continue selling covered calls on it, *hoping* that it will go up.  
+- The problem with this is that I will be paying interest on my negative cash balance until I sell. Also, it will kill my margin. 
+- Also, the stock could tank farther, then I'm just really fucked.
 
 3. Try to roll everything out 
-- Delay my doom, and try to roll everything out farther and hope that `MCD` stock price recovers.  I tried to do this last week actually, but couldn't get my orders to fill.  I might need to roll it for 0 credit.
-- Also rolling out the 260 long put will cost me money, unless I also roll it down to 255-250, which will then increase my risk
+- Delay my doom, and try to roll everything out farther and hope that `MCD` stock price recovers.  I tried to do this last week actually, but couldn't get my orders to fill.  
+- Will probalby need to roll the 270/250 spread for 0 credit, or increase the spread width.
+- Rolling out the 260 long put will cost me money, unless I also roll it down to 255-250, which will then increase my risk.
 - This strategy fucked me last time.
 
 So what should I do?  Not sure.  Nothing seems optimal.
