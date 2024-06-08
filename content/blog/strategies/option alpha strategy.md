@@ -34,6 +34,7 @@ Other entry rules:
 - prefer trades with high implied volatility rank or percentile
 - trade symbols that have high volume / open interest (at least 300)
 - not sure if I will focus on a specific expiry range yet, or just trade all dates
+- only defined risk trades (i.e. credit spreads, iron condors, etc.)
 
 
 ## Exit rules
