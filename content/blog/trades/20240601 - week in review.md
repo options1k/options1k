@@ -1,5 +1,5 @@
 ---
-title:  Choppy chop - Week in review (May 24 - May 28)
+title:  Choppy chop - Week in review (May 27 - May 31)
 description: Review of trades from past week
 date: 2024-06-01
 tags:
