@@ -19,7 +19,7 @@ As long as you control your risk (i.e position size), you will eventually come o
 
 Sounds quite simple doesn't it.
 
-## Entry 
+## Entry rules
 
 I will look to make 3-5 trades per week based on "trade ideas" found on the Option Alpha platform.
 
@@ -31,10 +31,11 @@ Other entry rules:
 - Reward/Risk must be greater than the percent on this chart depending on dislayed probability of max profit:
 {% image "./max profit vs return on risk.png", "probability profit vs reward risk" %}
 - avoid trades where earnings are within 2 weeks (less accurate probabilities)
-- prefer trades with high implied volatility rank or percentile
-- trade symbols that have high volume / open interest (at least 300)
-- not sure if I will focus on a specific expiry range yet, or just trade all dates
+- prefer trades with high implied volatility rank or IV percentile
+- trade symbols that have high volume / open interest (at least 300 each leg)
 - only defined risk trades (i.e. credit spreads, iron condors, etc.)
+- > 20 DTE (<a href="https://optionalpha.com/blog/trade-ideas-performance-days-to-expiration">reason</a>)
+- prefer ETFS over stocks (<a href="https://optionalpha.com/blog/evaluating-alpha-the-anticipated-return-on-risk-per-trade">reason</a>)
 
 
 ## Exit rules
@@ -43,16 +44,20 @@ Other entry rules:
 
 
 ## Risk level / Position size
-Risk 1% per trade.
+Max risk of 1% per trade.
 
 Currently, my trading portfolio is stuck around $35k, so my max risk is $350 per trade.
 
 I will probably start much lower than that as I get used to their platform.
+
+Will also limit myself to max 5 trades per week for now.
 
 
 ## Summary / Pros / Cons
 Interested to see how this almost purely mathematical approach works.  No need to look at technical indicators or anything.
 
 The good thing is that there is literally always a trade to make if I want to.
+
+The bad thing is that there is too many ideas to trade, and is probably easy to overtrade.
 
 I noticed the platform still lists trades where the spreads are super wide.  So, I will need to be careful when placing my orders.
