@@ -36,7 +36,7 @@ Here are the trades:
 |CSCO|open|Covered Call|2024-06-21|2024-07-05|47.5|0|0.71|1|1.54|69.46|
 </div>
 
-A few trend trades, and a bunch of mathematical "trade ideas" from trade options.
+A few trend trades, and a bunch of mathematical "trade ideas" from Option Alpha.
 
 Sold covered call on `CSCO`, then realized that it is having a dividend soon, so rolled it out another week to make sure I collect it.
 
