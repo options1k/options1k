@@ -10,11 +10,12 @@ DRAFT:
 
 Working on a 0dte strategy. 
 
-Some notes and stuff:
+## Research sources
 
 - SPX "pegging" data: https://optionalpha.com/blog/0dte-intraday-spx-historical-prices
 - 0DTE time decay: https://optionalpha.com/blog/0dte-options-time-decay
 
+## Notes
 
 - use option alpha's 0dte oracle system to find trades with high enough reward/risk based on probability
 - look at time of day entering, and choose OTM% that has a better than 50% probability of still being OTM by end of day
@@ -29,3 +30,7 @@ Some notes and stuff:
 
 - maybe try to enter early in the day on a trade that's .3% OTM or more
   - .3% is always about 50% win rate, so aim for over 100% return on risk
+
+
+## Other ideas
+- https://www.thetaprofits.com/my-most-profitable-options-trading-strategy-0dte-breakeven-iron-condor/
