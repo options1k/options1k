@@ -44,3 +44,8 @@ For now, I will be mainly using Bear Call Spreads, and Bull Put Spreads.  They s
 - [x] Make $1000 in a month - *Completed: <a href="/how-i-made-1604-in-january-2024-trading-options/">January 2024</a>*
 - [ ] Make $1000 per month for 3 months in a row
 - [ ] Make $1000 per month for an entire year
+
+
+## Contact
+
+Wanna chat about options or something else?  Send me an email hello@options1k.com
