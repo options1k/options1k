@@ -21,7 +21,7 @@ Sounds quite simple doesn't it.
 
 ## Entry rules
 
-I will look to make 3-5 trades per week based on "trade ideas" found on the Option Alpha platform.
+I will look to make 3-5 trades per week based on "trade ideas" found on the Option Alpha platform.  
 
 Will also be using it to hedge, or diversify my other positions.  
 
@@ -30,12 +30,14 @@ If I have too many bullish positions, I will look for some bearish trades to mak
 Other entry rules:
 - Reward/Risk must be greater than the percent on this chart depending on dislayed probability of max profit:
 {% image "./max profit vs return on risk.png", "probability profit vs reward risk" %}
+  - mainly be targetting trades in the 50-65% probability range
 - avoid trades where earnings are within 2 weeks (less accurate probabilities)
 - prefer trades with high implied volatility rank or IV percentile
 - trade symbols that have high volume / open interest (at least 300 each leg)
 - only defined risk trades (i.e. credit spreads, iron condors, etc.)
-- > 20 DTE (<a href="https://optionalpha.com/blog/trade-ideas-performance-days-to-expiration">reason</a>)
-- prefer ETFS over stocks (<a href="https://optionalpha.com/blog/evaluating-alpha-the-anticipated-return-on-risk-per-trade">reason</a>)
+- >20 DTE (<a href="https://optionalpha.com/blog/trade-ideas-performance-days-to-expiration">reason</a>)
+- prefer ETFS over stocks (<a href="https://optionalpha.com/blog/evaluating-alpha-the-anticipated-return-on-risk-per-trade">reason</a>) 
+- Distribute trades across different expiry dates, so that not everything expires on the same week.  Maybe 2-3 positions per expiry date
 
 
 ## Exit rules
@@ -44,13 +46,10 @@ Other entry rules:
 
 
 ## Risk level / Position size
-Max risk of 1% per trade.
 
-Currently, my trading portfolio is stuck around $35k, so my max risk is $350 per trade.
+Each trade, I want to risk less than $100.  This is about 0.3% of my portfolio size.  Since I will be making many trades per week, I think it is smarter to have lower risk than 1% of portfolio.
 
-I will probably start much lower than that as I get used to their platform.
-
-Will also limit myself to max 5 trades per week for now.
+I will first be only targetting $1 - $2 wide spreads.  That will mean my max loss for each position will typically be around $50-$100 (based on 50% probability of max profit).
 
 
 ## Summary / Pros / Cons
@@ -61,3 +60,4 @@ The good thing is that there is literally always a trade to make if I want to.
 The bad thing is that there is too many ideas to trade, and is probably easy to overtrade.
 
 I noticed the platform still lists trades where the spreads are super wide.  So, I will need to be careful when placing my orders.
+
