@@ -22,10 +22,10 @@ Just another expensive options trading lessson.
 
 ## Opened:
 
+Traded almost exclusively 0DTE this week.  Few other trades sprinkled in:
 
 <div class="trade-table weekly full-width">
 
-Traded almost exclusively 0DTE this week.  Few other trades sprinkled in:
 
 |**Ticker**|**Action**|**Type**|**Date**|**Expiry**|**Sell Strike**|**Buy Strike**|**Premium**|**Qty**|**Fee**|**Net**|
 |---|---|---|---|---|---|---|---|---|---|---|
