@@ -1,11 +1,16 @@
 ---
-title: Stochastics + Trend + Support/Resistance (Gin Lim Strategy)
+title: (INACTIVE) Stochastics + Trend + Support/Resistance 
 description: Strategy 1
 date: 2023-07-30
 tags:
   - strategy
+  - inactive
 permalink: "/gin-lim-strategy/"
 ---
+
+*Update Oct 2024: I am no longer using this strategy.  After more than a year of trading, I was  unprofitable (actually lost quite a bit of money).  The strategy is fine in concept, but I was not able to get it to work for me.  Either I wouldn't exit in time, or prices would gap up/down too quickly to manage it.  The return was just not good enough for win rate I was getting. Leaving write up below for reference purposes.*
+
+----
 This is an option selling strategy I adapted from Gin Lim over at <a href="https://passiveseeds.com/">passiveseeds.com</a>
 
 ## Basic overview
