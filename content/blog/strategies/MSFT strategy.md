@@ -4,6 +4,7 @@ description: Option Selling Strategy 2
 date: 2023-08-08
 tags:
   - strategy
+  - active
 permalink: "/90dte-msft-strategy/"
 ---
 This is an option selling strategy of Microsoft (`MSFT`) I found via backtests on <a href="https://optionalpha.com">optionalpha.com</a>. 
