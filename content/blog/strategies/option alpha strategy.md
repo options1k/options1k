@@ -4,6 +4,7 @@ description: Strategy 6
 date: 2024-06-08
 tags:
   - strategy
+  - active
 permalink: "/options-alpha-strategy/"
 ---
 <a href="https://optionalpha.com/">Option Alpha</a> is a great resource for learning about trading options.  They also have their own app/platform that lets you auto-trade strategies.   Their platform doesn't work with my broker yet (IBKR), otherwise I would probably be using it.
