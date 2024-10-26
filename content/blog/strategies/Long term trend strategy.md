@@ -4,6 +4,7 @@ description: Option Selling Strategy 5
 date: 2023-11-12
 tags:
   - strategy
+  - active
 permalink: "/long-term-trend-strategy/"
 ---
 
