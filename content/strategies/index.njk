@@ -9,6 +9,11 @@ permalink: /strategies/
 
 Here is a list of option strategies I currently use.  
 
-<h2>Option Selling Strategies</h2>
-{% set postslist = collections[ "strategy" ]  %}
+<h2>Current Option Selling Strategies</h2>
+{% set postslist = collections[ "active" ]  %}
+{% include "postslist.njk" %}
+
+<h2>Former Strategies</h2>
+Here are strategies that I have used in the past.  
+{% set postslist = collections[ "inactive" ]  %}
 {% include "postslist.njk" %}
