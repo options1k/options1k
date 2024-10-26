@@ -1,5 +1,5 @@
 ---
-title: (INACTIVE) Stochastics + Trend + Support/Resistance 
+title: Stochastics + Trend + Support/Resistance 
 description: Strategy 1
 date: 2023-07-30
 tags:
