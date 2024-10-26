@@ -4,6 +4,7 @@ description: Option Selling Strategy 3
 date: 2023-08-20
 tags:
   - strategy
+  - active
 permalink: "/spy-10day-strategy/"
 ---
 
