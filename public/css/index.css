@@ -293,6 +293,8 @@ h2 + .header-anchor {
 	display: block;
     overflow-x: auto;
     white-space: nowrap;
+	max-height: 600px;
+	overflow-y: scroll;
 }
 .trade-table table th, td {
   padding: 7px;
