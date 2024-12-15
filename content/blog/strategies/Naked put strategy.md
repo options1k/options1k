@@ -14,10 +14,17 @@ This is a naked put selling strategy that I have pieced together from <a href="h
 ## Basic overview
 Sell puts on *profitable, high quality* companies that I would like to own in the long term.
 
+May consider also combining with put debit spread to create a put ratio spread.  [Note](https://www.youtube.com/watch?v=kNr5QoKhOtc)
+
 ## Detailed Overview
-Still ironing out the details, but here's what I got so far.
+Can trade this on either index ETFs, or individual stocks:
 
 ### Company / stock selection
+
+1. Stable index ETF
+
+OR, if individual stock:
+
 1. Profitable (Net Margin > 15%)
 2. Earnings & Revenue growth over past 5 years (and forseeable future)
 3. Manageable debt levels (i.e. low D/E ratio, or great interest coverage)
