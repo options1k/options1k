@@ -10,6 +10,9 @@ Below is a table of my monthly profits and losses (closed trades only).
 
 (<a href="/tags/monthly-report/">View all monthly report posts</a>)
 
+
+## 2023-2024
+
 <div class="pl-table">
 
 |**Month**|**Profit/Loss**|**Cumulative**|
@@ -34,7 +37,7 @@ Below is a table of my monthly profits and losses (closed trades only).
 |2024-08|$511.88|$425.30|
 |2024-09|-$101.96|$323.34|
 |2024-10|-$826.80|-$503.46|
-|2024-11|||
-|2024-12|||
+|2024-11|$971.42|$467.96|
+|2024-12|$632.67|$1,100.63|
 
 </div>
