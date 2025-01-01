@@ -1,6 +1,6 @@
 ---
 title: How I made $971 in November 2024 trading options
-description: Trading profits/losses from October 2024
+description: Trading profits/losses from November 2024
 date: 2024-12-09
 tags:
   - monthly report
