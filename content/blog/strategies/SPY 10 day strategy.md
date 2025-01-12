@@ -4,9 +4,19 @@ description: Option Selling Strategy 3
 date: 2023-08-20
 tags:
   - strategy
-  - active
+  - inactive
 permalink: "/spy-10day-strategy/"
 ---
+
+*Update Jan 2025: 
+
+I haven't been using this strategy for the past few months.  It was actually very profitable for me when I did use it.
+
+It works very well in bull markets, and I got lucky and made a bunch of money in the 2024 market boom. Despite this, I have decided it takes on too much risk for my portfolio size.  I have decided to shift to a a more conservative 45+ DTE strategy instead.
+
+Perhaps I will start trading this strategy again when I have a bigger account. *
+
+----
 
 I wanted a strategy that I could trade every week to relieve the itchy trigger finger (i.e. that need to make a trade feeling).
 
