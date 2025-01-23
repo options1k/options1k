@@ -8,7 +8,7 @@ tags:
 permalink: "/spy-10day-strategy/"
 ---
 
-*Update Jan 2025: 
+*Update Jan 2025:*
 
 I haven't been using this strategy for the past few months.  It was actually very profitable for me when I did use it.
 
