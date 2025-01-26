@@ -42,11 +42,11 @@ Days to expiry will be a minimum of 45 days.  Prefer slightly longer if possible
 
 ### Allocation/Risk amount
 
-Starting with just one trade per week on `SPY`.  
+Starting with just one trade per week on `SPY`.  Spread width around $5.
 
 If profitable, can start scaling up by increasing width of the credit spread, or by selling more positions on other days of the week.
 
-If not profitable, then I 
+If not profitable, then I will just stop tading it.  But, I need a lot more trades before I decide that.
 
 ## Summary / Notes
 
