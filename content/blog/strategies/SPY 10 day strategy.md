@@ -8,13 +8,7 @@ tags:
 permalink: "/spy-10day-strategy/"
 ---
 
-*Update Jan 2025:*
-
-I haven't been using this strategy for the past few months.  It was actually very profitable for me when I did use it.
-
-It works very well in bull markets, and I got lucky and made a bunch of money in the 2024 market boom. Despite this, I have decided it takes on too much risk for my portfolio size.  I have decided to shift to a a more conservative 45+ DTE strategy instead.
-
-Perhaps I will start trading this strategy again when I have a bigger account. *
+*Update Jan 2025: I haven't been using this strategy for the past few months.  It was actually very profitable for me when I did use it. It works very well in bull markets, and I got lucky and made a bunch of money in the 2024 market boom. Despite this, I have decided it takes on too much risk for my portfolio size.  I have decided to shift to a a more conservative [45+ DTE strategy](/spy-45dte-strategy/) instead. Perhaps I will start trading this strategy again when I have a bigger account.*
 
 ----
 
