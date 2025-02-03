@@ -10,6 +10,26 @@ Below is a table of my monthly profits and losses (closed trades only).
 
 (<a href="/tags/monthly-report/">View all monthly report posts</a>)
 
+## 2025
+
+<div class="pl-table">
+
+|**Month**|**Profit/Loss**|**Cumulative**|
+|---|---|---|
+|2025-01|$1,753.64|$2,854.27|
+|2025-02|||
+|2025-03|||
+|2025-04|||
+|2025-05|||
+|2025-06|||
+|2025-07|||
+|2025-08|||
+|2025-09|||
+|2025-10|||
+|2025-11|||
+|2025-12|||
+
+</div>
 
 ## 2023-2024
 
