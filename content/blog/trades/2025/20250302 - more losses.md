@@ -1,7 +1,7 @@
 ---
 title:  More big losses + New strategies - Weekly summary (Feb 24 - Feb 28)
 description: Review of trades from past week
-date: 2025-03-02
+date: 2025-03-01
 tags:
   - trades
   - weekly
@@ -55,7 +55,7 @@ Rolled out a `MSFT` position from December 2024.  It is getting dangerously clos
 
 </div>
 
-<div class = "trade-table monthly full-width">
+<div class = "trade-table weekly full-width">
 
 |**Ticker**|**Type**|**Entry Date**|**Expiry Date**|**Sell Strike**|**Buy Strike**|**Premium**|**Open Qty**|**Fee open**|**Net Premium**|**Close Date**|**Close Cost**|**Close Qty**|**Fee close**|**Profit/Loss**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
