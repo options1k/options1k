@@ -33,7 +33,7 @@ Here are the parameters I currently use:
 - Ticker: `SPX` 
 - 20/40 EMAs on a 1min chart;  if 20 is above 40 on specified entry time, then enter a Bull Put Spread; if 20 is below 40, then enter a Bear Call Spread.
 - Target credit: 0.85 - 1.25 (i.e. minimum premium received is $0.85 per spread, max $1.25)
-- Strike spread width:  Min spread of 25 points; Max spread of 60 points (e.g. Sell put is 5000; buy put is 4940)
+- Strike spread width:  Min spread of 30 points; Max spread of 60 points (e.g. Sell put is 5000; buy put is 4940)
 - Delta target:  No specific delta, but as far away from the current (i.e. at the money) price  as possible
 - Multiple entry times based on backtest:
 
