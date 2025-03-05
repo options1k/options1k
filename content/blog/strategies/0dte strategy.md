@@ -6,7 +6,7 @@ tags:
   - strategy
   - active
 permalink: "/0dte-strategy/"
-draft: true
+
 ---
 
 On this page is a collection of 0DTE strategies I currently use.  
