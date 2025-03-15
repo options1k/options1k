@@ -14,9 +14,9 @@ Gave back all my profits from last month.
 
 Majority of losses are from 0DTE.
 
-Here are the closed trades for January 2025:
+Here are the closed trades for February 2025:
 
-## January 2025 Closed Trades
+## February 2025 Closed Trades
 
 Formatting is a bit of a mess, as I am slowly changing over a new spreadsheet format. 0DTE Trades are in the next section.
 
