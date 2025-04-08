@@ -12,7 +12,7 @@ A crazy week for the markets.
 
 The orangeman went wild with tariffs; the market panicked and dumped liek 10% in a few days.
 
-I also had a terrible week, and dumped most of my trading profits from last months.
+I also had a terrible week, and dumped most of my trading profits from last month.
 
 Here's the trades from the past week:
 
