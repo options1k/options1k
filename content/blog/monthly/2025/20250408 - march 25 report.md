@@ -24,8 +24,8 @@ Doesnt feel so good when I look at it that way...
 
 <div class="trade-table monthly full-width">
 
-|**Ticker**|**Action**|**Type**|**Date**|**Expiry**|**Sell Strike**|**Buy Strike**|**Premium**|**Qty**|**Fee**|**Net**|**Profit/Loss**|
-|---|---|---|---|---|---|---|---|---|---|---|---|
+|**Ticker**|**Type**|**Entry Date**|**Expiry Date**|**Sell Strike**|**Buy Strike**|**Premium**|**Open Qty**|**Fee open**|**Net Premium**|**Close Date**|**Close Cost**|**Close Qty**|**Fee close**|**Profit/Loss**|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |XLB|BCS|2025-01-13|2025-03-21|85|86|0.53|1|1.41|51.59|2025-03-21|-0.2|1|1.42|30.17|
 |XLB|BCS|2025-01-22|2025-03-21|90|91|0.51|1|1.42|49.58|2025-03-03|-0.2|1|2.12|27.46|
 |KMI|Long|2025-01-31|-|0|27.62|-27.62|1|1|-2763|2025-03-28|28|1|0|37|
