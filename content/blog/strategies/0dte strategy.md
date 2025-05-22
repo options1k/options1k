@@ -135,7 +135,7 @@ Here are my current optimal setups by day:
 ### Thursday
 - **Entry time:** 2:30pm (earlier times have negative returns - [backtest](https://app.optionalpha.com/zdte/backtester/compare/ZT217474766300936031934,ZT217474780431348171945,ZT217474780580618051946,ZT217474780704941531947,ZT217474780840462181948))
 - **Delta:** 30 (25 delta is also good; max 32  - [backtest](https://app.optionalpha.com/zdte/backtester/compare/ZT217474766300936031934,ZT217474782306060301949,ZT217474782631156921950,ZT217474782876897821951,ZT217474788333941511952))
-- **Notes:**  
+- **Notes:**  Early profit take (50-60%) improves results slightly ([backtest](https://app.optionalpha.com/zdte/backtester/compare/ZT217474766300936031934,ZT217478881210061091599,ZT217478882059519811602))
 - **Results:** Profit: 5557; max drawdown 1628; profit factor 1.42
 
 ### Friday
@@ -195,7 +195,7 @@ I realized though that I am basicaly doubling a lot of my entries of the daily i
 ### High VIX
 I found that the put side performs very well in high VIX environments (i.e. VIX > 20).  VIX >25 also performs well, but there is a lot less positions. ([Backtest](https://app.optionalpha.com/zdte/backtester/compare/ZT21747494644820450471,ZT21747494662764665472,ZT21747494956600625481,ZT21747494990143712483))
 
-So, I will enter additional positions on Tuesday/Wednesday/Thursday/Friday at 3pm if VIX>20.
+So, I will enter additional positions on Tuesday/Wednesday/Thursday/Friday at 3pm if VIX>20, and daily EMA>10.
 
 
 
