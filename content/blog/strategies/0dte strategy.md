@@ -116,12 +116,12 @@ Here are my current optimal setups by day:
 
 ### Monday
 - **Entry time:** 1:45pm - 2:00pm ([backtest](https://app.optionalpha.com/zdte/backtester/compare/ZT217474737399306521846,ZT217474737252432381845,ZT217474737703108341847,ZT217474737960967671848,ZT217474738365520371850))
-- **Delta:** 25 - 35 (all similar results - [backtest](https://app.optionalpha.com/zdte/backtester/compare/ZT217474737252432381845,ZT217474740297990851855,ZT217474740844770341856)) 
-- **Notes:**  9:35am also has good results, but down a bit more over [past year](https://app.optionalpha.com/zdte/backtester/compare/ZT2174161280181970132,ZT2174161291724766034,ZT2174161305423016036,ZT2174161314060112438). Restricting entries by VIX does not improve results.
+- **Delta:** 25 - 35 (all similar results - [backtest](https://app.optionalpha.com/zdte/backtester/compare/ZT217474737252432381845,ZT217474740297990851855,ZT217474740844770341856,ZT2174887323882935768)) 
+- **Notes:**  9:35am also has good results, but down a bit more over [past year](https://app.optionalpha.com/zdte/backtester/compare/ZT2174161280181970132,ZT2174161291724766034,ZT2174161305423016036,ZT2174161314060112438). Restricting entries by VIX does not improve results. 11:00am is actually better over past year.
 - **Results:** Profit: 5030; max drawdown 1610; profit factor 1.46
 
 ### Tuesday
-- **Entry time:** 11:25am (11:15-11:30am all good)([backtest](https://app.optionalpha.com/zdte/backtester/compare/ZT217474746360380341874,ZT217474746644283151875,ZT217474747104471771876,ZT217474747389971861878,ZT217474747540383561879)
+- **Entry time:** 11:25am (11:15-11:30am all good)([backtest](https://app.optionalpha.com/zdte/backtester/compare/ZT217474746360380341874,ZT217474746644283151875,ZT217474747104471771876,ZT217474747389971861878,ZT217474747540383561879))
 - **Delta:** 25 (higher delta is worse: [backtest](https://app.optionalpha.com/zdte/backtester/compare/ZT217474747389971861878,ZT217474752049026961890,ZT217474752249684171891,ZT217474752484662111892,ZT217474752795841421893)) 
 - **Notes:**  10:30am was best entry until June 2024, but it is down over [past year](https://app.optionalpha.com/zdte/backtester/compare/ZT2174161280181970132,ZT2174161291724766034,ZT2174161305423016036,ZT2174161314060112438). 1:45 entry is also OK. [VIX backtest](https://app.optionalpha.com/zdte/backtester/compare/ZT217474747389971861878,ZT217474753881942111897,ZT217474754003396991899,ZT217474754278024621900,ZT217474754732154291902)
 - **Results:** Profit: 6452; max drawdown 1392; profit factor 1.47
@@ -135,7 +135,7 @@ Here are my current optimal setups by day:
 ### Thursday
 - **Entry time:** 2:30pm (earlier times have negative returns - [backtest](https://app.optionalpha.com/zdte/backtester/compare/ZT217474766300936031934,ZT217474780431348171945,ZT217474780580618051946,ZT217474780704941531947,ZT217474780840462181948))
 - **Delta:** 30 (25 delta is also good; max 32  - [backtest](https://app.optionalpha.com/zdte/backtester/compare/ZT217474766300936031934,ZT217474782306060301949,ZT217474782631156921950,ZT217474782876897821951,ZT217474788333941511952))
-- **Notes:**  Early profit take (50-60%) improves results slightly ([backtest](https://app.optionalpha.com/zdte/backtester/compare/ZT217474766300936031934,ZT217478881210061091599,ZT217478882059519811602))
+- **Notes:**  Early profit take (50%) improves results slightly at 25 delta ([backtest](https://app.optionalpha.com/zdte/backtester/compare/ZT217474766300936031934,ZT217478881210061091599,ZT217478882059519811602))
 - **Results:** Profit: 5557; max drawdown 1628; profit factor 1.42
 
 ### Friday
@@ -179,7 +179,7 @@ I realized though that I am basicaly doubling a lot of my entries of the daily i
 ### Tuesday
 - Put side: 1:00pm, 35delta ([backtest](https://app.optionalpha.com/zdte/backtester/compare/ZT21747495335639834492,ZT21747495393162465495,ZT21747495409932863497,ZT21747496106447022533))
 - Call side: 2:00pm, 20 delta ([backtest](https://app.optionalpha.com/zdte/backtester/compare/ZT21747497886676099648,ZT21747497998046112663,ZT21747498029152429666,ZT21747498051757151671,ZT21747498077315924676))
-  - Note:  call side is not that profitable, could just enter put side.
+  - Note:  call side has very choppy returns, could just enter put side.
 
 ### Wednesday
 - ~~Put side: 12pm~~ (same as IC, don't enter) ([backtest](https://app.optionalpha.com/zdte/backtester/compare/ZT21747495576868720503,ZT2174549846014539922,ZT2174549851708044325,ZT2174549857195395526,ZT21747495563509354502))
