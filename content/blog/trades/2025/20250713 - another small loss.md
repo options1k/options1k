@@ -1,11 +1,11 @@
 ---
-title: Short week, small loss - Weekly summary (Jun 30 - July 4)
+title: Another small loss - Weekly summary (Jun 7 - July 11)
 description: Review of trades from past week
-date: 2025-07-04
+date: 2025-07-13
 tags:
   - trades
   - weekly
-permalink: "/trades-2025-07-04/"
+permalink: "/trades-2025-07-07/"
 ---
 
 Another small loss this week.
