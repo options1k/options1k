@@ -115,8 +115,8 @@ Here are my current optimal setups by day:
 - Entry times (different per day, see below):
 
 ### Monday
-- **Entry time:** 1:45pm - 2:00pm ([backtest](https://app.optionalpha.com/zdte/backtester/compare/ZT217474737399306521846,ZT217474737252432381845,ZT217474737703108341847,ZT217474737960967671848,ZT217474738365520371850))
-- **Delta:** 25 - 35 (all similar results - [backtest](https://app.optionalpha.com/zdte/backtester/compare/ZT217474737252432381845,ZT217474740297990851855,ZT217474740844770341856,ZT2174887323882935768)) 
+- **Entry time:** 1:45pm ([backtest](https://app.optionalpha.com/zdte/backtester/compare/ZT217474737399306521846,ZT217474737252432381845,ZT217474737703108341847,ZT217474737960967671848,ZT217474738365520371850))
+- **Delta:** 25 - 35 (higher delta seems better; even 40 delta is not bad - [backtest](https://app.optionalpha.com/zdte/backtester/compare/ZT217542954319500461599,ZT217542954686406831600,ZT217542955145696931601,ZT217542955548760681602,ZT217542957070627241604)) 
 - **Notes:**  9:35am also has good results, but down a bit more over [past year](https://app.optionalpha.com/zdte/backtester/compare/ZT2174161280181970132,ZT2174161291724766034,ZT2174161305423016036,ZT2174161314060112438). Restricting entries by VIX does not improve results. 11:00am is actually better over past year.
 - **Results:** Profit: 5030; max drawdown 1610; profit factor 1.46
 
