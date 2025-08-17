@@ -36,7 +36,7 @@ Here's the trades from the past week:
 
 </div>
 
-Not much non-0DTE trades last week.  Cutting back on the Option Alpha Trade Ideas, as it's been eating tons of losses recently.
+Some new long-term trend positions.  Another hedge on `VIX`.  I keep thinking there's going to be some huge correction and volatility spike coming, but the market just keeps going up and up and up.
 
 
 ## Closed / Expired:
