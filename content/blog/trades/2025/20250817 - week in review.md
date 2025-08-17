@@ -8,7 +8,11 @@ tags:
 permalink: "/trades-2025-08-11/"
 ---
 
-Barely manage
+Barely managed a winning week.
+
+But, a win's a win. 
+
+Or, any non-loss is a win. 🙃
 
 Here's the trades from the past week:
 
