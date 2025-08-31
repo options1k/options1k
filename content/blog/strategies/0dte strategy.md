@@ -115,10 +115,12 @@ Here are my current optimal setups by day:
 - Entry times (different per day, see below):
 
 ### Monday
-- **Entry time:** 1:45pm ([backtest](https://app.optionalpha.com/zdte/backtester/compare/ZT217474737399306521846,ZT217474737252432381845,ZT217474737703108341847,ZT217474737960967671848,ZT217474738365520371850))
-- **Delta:** 25 - 35 (higher delta seems better; even 40 delta is not bad - [backtest](https://app.optionalpha.com/zdte/backtester/compare/ZT217542954319500461599,ZT217542954686406831600,ZT217542955145696931601,ZT217542955548760681602,ZT217542957070627241604)) 
-- **Notes:**  9:35am also has good results, but down a bit more over [past year](https://app.optionalpha.com/zdte/backtester/compare/ZT2174161280181970132,ZT2174161291724766034,ZT2174161305423016036,ZT2174161314060112438). Restricting entries by VIX does not improve results. 11:00am is actually better over past year.
-- **Results:** Profit: 5030; max drawdown 1610; profit factor 1.46
+- **Entry time:** 9:40am ([backtest](https://app.optionalpha.com/zdte/backtester/compare/ZT217474737399306521846,ZT217474737252432381845,ZT217474737703108341847,ZT217474737960967671848,ZT217474738365520371850))
+- **Delta:** 25 - 35 (25 is better - [backtest](https://app.optionalpha.com/zdte/backtester/compare/ZT21756656679071427279,ZT21756656722239838288,ZT21756656773486275290,ZT21756656892673924294,ZT21756657656210285319)) 
+- **Notes:**  
+  - 1:45pm, 25delta has similar results
+  - 9:40am exactly has best results [backtest](https://app.optionalpha.com/zdte/backtester/compare/ZT21756656679071427279,ZT21756657008012684298,ZT21756657343592485303,ZT21756657808043656334,ZT21756657845840949338)
+- **Results:** Profit: 5180; max drawdown 1517; profit factor 1.41
 
 ### Tuesday
 - **Entry time:** 11:25am (11:15-11:30am all good)([backtest](https://app.optionalpha.com/zdte/backtester/compare/ZT217474746360380341874,ZT217474746644283151875,ZT217474747104471771876,ZT217474747389971861878,ZT217474747540383561879))
@@ -144,12 +146,19 @@ Here are my current optimal setups by day:
 - **Notes:**  
 - **Results:** Profit: 8565; max drawdown 767; profit factor 1.9
 
-### Summary / Notes
+### Summary / Other Notes
 
 Best backtest by day of week combined: [Link](https://app.optionalpha.com/zdte/backtester/compare/ZT217474737252432381845,ZT21747490139793901210,ZT21747490197727591212,ZT21747490291669446220,ZT21747490358763528234?combine=1)
 
 Maybe need to think about not trading on Wednesday, as results are not that great over past year.  Could instead increase allocation on Friday as it has best profit factor?
 
+### VIX
+
+Strategy performs worse in low VIX (<15) environments.  May consider not trading it when VIX is low.
+
+Here is backtest of baseline strategy with VIX comparisons: [Backtest](https://app.optionalpha.com/zdte/backtester/compare/ZT21756655562386687232,ZT21756655702926506235,ZT21756655749408994236,ZT21756655782363812239,ZT21756655954079356246)
+- green line is VIX < 15
+- 
 -----
 
 ## Hybrid IC Strategy SPX
