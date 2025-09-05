@@ -145,9 +145,9 @@ Here are my current optimal setups by day:
 
 ### Friday
 - **Entry time:** 3:15pm ([backtest](https://app.optionalpha.com/zdte/backtester/compare/ZT217474794092906171954,ZT217474794219033721955,ZT217474794362378181956,ZT217474794460919001958,ZT217474794594404621959))
-- **Delta:** 25-35 (20-35 delta all pretty good  - [backtest](https://app.optionalpha.com/zdte/backtester/compare/ZT217474794092906171954,ZT217474795207535191961,ZT217474796173414131962,ZT217474796723308681964) )
+- **Delta:** 20-25 (15-35 delta all pretty good  - [backtest](https://app.optionalpha.com/zdte/backtester/compare/ZT21757084333958954883,ZT21757084504856514898,ZT21757084543069500900,ZT21757084561743040902,ZT21757084686740299914) )
 - **Notes:**  
-- **Results:** Profit: 8565; max drawdown 767; profit factor 1.9
+- **Results:** Profit: 8900; max drawdown 700; profit factor 1.9
 
 ### Summary / Other Notes
 
