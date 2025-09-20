@@ -5,7 +5,7 @@ date: 2025-09-21
 tags:
   - trades
   - weekly
-permalink: "/trades-2025-09-08/"
+permalink: "/trades-2025-09-15/"
 ---
 
 Another good week.
