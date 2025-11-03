@@ -115,12 +115,12 @@ Here are my current optimal setups by day:
 - Entry times (different per day, see below):
 
 ### Monday
-- **Entry time:** 9:40am ([backtest](https://app.optionalpha.com/zdte/backtester/compare/ZT217474737399306521846,ZT217474737252432381845,ZT217474737703108341847,ZT217474737960967671848,ZT217474738365520371850))
+- **Entry time:** 9:40am ([backtest](https://app.optionalpha.com/zdte/backtester/compare/ZT217621735083639191238,ZT217621735656900801240,ZT217474737703108341847,ZT217474737960967671848,ZT217474738365520371850))
 - **Delta:** 25 - 35 (25 is better - [backtest](https://app.optionalpha.com/zdte/backtester/compare/ZT21756656679071427279,ZT21756656722239838288,ZT21756656773486275290,ZT21756656892673924294,ZT21756657656210285319)) 
 - **Notes:**  
   - 1:45pm, 25delta has similar results
   - 9:40am exactly has best results [backtest](https://app.optionalpha.com/zdte/backtester/compare/ZT21756656679071427279,ZT21756657008012684298,ZT21756657343592485303,ZT21756657808043656334,ZT21756657845840949338)
-- **Results:** Profit: 5180; max drawdown 1517; profit factor 1.41
+- **Results:** Profit: 5277; max drawdown 1517; profit factor 1.42
 
 ### Tuesday
 - **Entry time:** 11:25am (11:15-11:30am all good)([backtest](https://app.optionalpha.com/zdte/backtester/compare/ZT217474746360380341874,ZT217474746644283151875,ZT217474747104471771876,ZT217474747389971861878,ZT217474747540383561879))
