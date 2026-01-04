@@ -210,7 +210,7 @@ A whole bunch of trades, and nothing to show for it.
 
 ### Oct 14 Slippage
 
-I LOST an extra $900 due to some big volatility spike and slippage on Oct 14th.  Basically, price dropped so suddenly that stops got auto-triggered and filled very poorly by brokers.
+I LOST an extra $900 due to some big volatility spike and slippage on Oct 14th.  Basically, price dropped so suddenly that stops got triggered and filled very poorly by brokers.
 
 So, without this, I would've actually had an OK month (i.e. $700 or so profit). 
 
