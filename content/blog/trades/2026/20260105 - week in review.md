@@ -20,23 +20,13 @@ Here's the trades from the past week:
 
 |**Ticker**|**Type**|**Entry Date**|**Expiry Date**|**Sell Strike**|**Buy Strike**|**Premium**|**Open Qty**|**Fee open**|**Net Premium**|
 |---|---|---|---|---|---|---|---|---|---|
-|IBIT|Covered Call|2025-12-08|2025-12-12|53|0|0.39|1|0.67|38.33|
-|IBIT|Covered Call|2025-12-09|2025-12-19|53.5|0|1.81|1|0.67|180.33|
-|IWM|BPS (IC)|2025-12-10|2025-01-23|225|220|0.3|1|1.33|28.67|
-|IWM|BCS (IC)|2025-12-10|2025-01-23|275|280|0.31|1|1.33|29.67|
-|SPY|BPS|2025-12-11|2026-01-23|650|640|0.95|1|1.33|93.67|
-|VIX|Long Call|2025-12-11|2026-03-17|0|65|-0.55|1|1.27|-56.27|
-|SPY|BWB – Bull Put|2025-12-12|2025-01-02|673|667|-0.770000000000001|1|0.975|-77.975|
-|SPY|BWB – Bear Put|2025-12-12|2025-01-02|673|676|1.15|1|0.975|114.025|
-|PFE|Long Call|2025-12-12|2027-01-15|0|42|-0.21|1|0.95|-21.95|
+
 
 </div>
 
-Got assigned `IBIT` a few weeks ago at $50.  Been selling covered calls on it since. 
+No trades!  
 
-This week, I sold one on Monday, then rolled it out the next day for more premium.  Not sure what final price to target yet.  Should probably have a price in mind.
-
-Also adapted my weekly `SPY` strategy to roll it out every week instead of opening a new position every week.  Seems smarter for some reason. 
+Weird schedule meant no trades.  
 
 
 ## Closed / Expired:
@@ -62,6 +52,8 @@ Nothing else haha.
 
 |**Ticker**|**Type**|**Entry Date**|**Expiry Date**|**Sell Strike**|**Buy Strike**|**Premium**|**Open Qty**|**Fee open**|**Net Premium**|**Exit Date**|**Close Cost**|**Close Qty**|**Fee close**|**Profit/Loss**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|SPX|BPS (IC)|2025-12-26|2025-12-29|6945|6935|4.9|1|3.21|486.79|2025-12-29|-10|1|0|-513.21|
+|SPX|BCS (IC)|2025-12-26|2025-12-29|6945|6950|2.05|1|3.21|201.79|2025-12-29|0|1|0|201.79|
 |SPX|BPS (IC)|2025-12-29|2025-12-29|6895|6890|0.84|1|3.22|80.78|2025-12-29|0|1|0|80.78|
 |SPX|BCS (IC)|2025-12-29|2025-12-29|6930|6935|1.26|1|3.22|122.78|2025-12-29|0|1|0|122.78|
 |SPX|BCS|2025-12-29|2025-12-29|6920|6980|0.95|1|3.23|91.77|2025-12-29|0|1|0|91.77|
@@ -75,25 +67,29 @@ Nothing else haha.
 |SPX|BCS|2025-12-30|2025-12-30|6910|6915|1.85|1|3.41|181.59|2025-12-30|-1.55|1|3.21|23.38|
 |SPX|BCS|2025-12-30|2025-12-30|6910|6915|2.4|1|3.21|236.79|2025-12-30|-1.8|1|3.21|53.58|
 |SPX|BPS|2025-12-30|2025-12-30|6895|6890|0.7|1|3.41|66.59|2025-12-30|-0.6|1|3.21|3.38|
+|SPX|BPS|2026-01-02|2026-01-02|6825|6750|1.05|1|3.19|101.81|2026-01-02|-2.05|1|3.39|-106.58|
+|SPX|BPS|2026-01-02|2026-01-02|6845|6840|1.9|1|3.28|186.72|2026-01-02|-1.4|1|3.28|43.44|
+|SPX|BPS|2026-01-02|2026-01-02|6835|6830|1.8|1|3.28|176.72|2026-01-02|-1.35|1|3.28|38.44|
+|SPX|BPS|2026-01-02|2026-01-02|6830|6825|1.9|1|3.48|186.52|2026-01-02|-1.4|1|3.28|43.24|
+|SPX|BCS|2026-01-02|2026-01-02|6865|6920|1.2|1|3.19|116.81|2026-01-02|-2.5|1|3.19|-136.38|
+|SPX|BPS|2026-01-02|2026-01-02|6840|6765|0.95|1|3.19|91.81|2026-01-02|0|1|0|91.81|
+|SPX|BPS (IC)|2026-01-02|2026-01-02|6855|6850|1.21|1|3.28|117.72|2026-01-02|0|1|0|117.72|
+|SPX|BCS (IC)|2026-01-02|2026-01-02|6865|6870|1.24|1|3.28|120.72|2026-01-02|0|1|0|120.72|
 
 </div>
 
-- **0DTE/1DTE Closed Net Profits/Loss**: -$1278.74
+- **0DTE/1DTE Closed Net Profits/Loss**: $433.37
 
-Yikes.
-
-Terrible start to the week (-$1343 by Tuesday), and just couldn't recover.
-
-Sucks.
+A good win for 0dte/1dte trades.  First in a long time it feels.
 
 
 ## Total Profit / Loss
 
 <div class="pl-table">
 
-|   |   |
+|Type|Profit/Loss|
 |---|---|
-|0DTE / 1DTE trades|-$1278.74|
+|0DTE / 1DTE trades|$433.37|
 |Other trades|$77.28|
 |**NET PROFIT / LOSS**|**-$1201.46**|
 
