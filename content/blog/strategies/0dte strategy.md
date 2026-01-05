@@ -2,6 +2,7 @@
 title: 0DTE Strategies
 description: Strategy 7
 date: 2025-01-27
+updated: 2025-11-17
 tags:
   - strategy
   - active
@@ -14,6 +15,7 @@ On this page is a collection of 0DTE strategies I currently use.
 - [SPX METF](#spx-metf-strategy)
 - [$5 Iron Condor Strategy on SPX](#spx-5-iron-condor-strategy)
 - [Hybrid Iron Condor on SPX](#hybrid-ic-strategy-spx)
+- [ORB](#orb)
 
 -----
 
@@ -144,8 +146,8 @@ Here are my current optimal setups by day:
 - **Results:** Profit: 5557; max drawdown 1628; profit factor 1.42
 
 ### Friday
-- **Entry time:** 3:15pm ([backtest](https://app.optionalpha.com/zdte/backtester/compare/ZT217474794092906171954,ZT217474794219033721955,ZT217474794362378181956,ZT217474794460919001958,ZT217474794594404621959))
-- **Delta:** 20-25 (15-35 delta all pretty good  - [backtest](https://app.optionalpha.com/zdte/backtester/compare/ZT21757084333958954883,ZT21757084504856514898,ZT21757084543069500900,ZT21757084561743040902,ZT21757084686740299914) )
+- **Entry time:** 3:05pm-3:20pm ([backtest](https://app.optionalpha.com/zdte/backtester/compare/ZT217474794092906171954,ZT217474794219033721955,ZT217474794362378181956,ZT217474794460919001958,ZT217474794594404621959))[Backtest](https://app.optionalpha.com/zdte/backtester/compare/ZT217654393231590261148,ZT217654393476020581149,ZT217654393648516361150,ZT217654393818667811151,ZT217654395704562801152)
+- **Delta:** 30-35 (15-35 delta all profitable, best return around 30-35 range  - [backtest](https://app.optionalpha.com/zdte/backtester/compare/ZT217654387168178991135,ZT217654387753023711136,ZT217654388959812761140,ZT217654389344535731143,ZT217654390028117751145) )
 - **Notes:**  
 - **Results:** Profit: 8900; max drawdown 700; profit factor 1.9
 
@@ -210,7 +212,14 @@ I found that the put side performs very well in high VIX environments (i.e. VIX 
 So, I will enter additional positions on Tuesday/Wednesday/Thursday/Friday at 3pm if VIX>20, and daily EMA>10.
 
 
-
 ### Summary
 
 Leg into iron condors on Tuesday and Friday based on times above.
+
+## ORB
+
+ORB stands for "Opening Range Breakout", and is a common strategy among 0DTE traders.  
+
+Basically, you look at the highest and lowest price of a certain period after market opens.  For example, a 60 minute ORB would look at the highest and lowest price during the first hour of the market.
+
+If the price breaks through one of the extremes, then you make a trade.  
