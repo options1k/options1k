@@ -125,12 +125,13 @@ Here are my current optimal setups by day:
 - **Results:** Profit: 5277; max drawdown 1517; profit factor 1.42
 
 ### Tuesday
-- **Entry time:** 11:25am (11:15-11:30am all good)([backtest](https://app.optionalpha.com/zdte/backtester/compare/ZT217474746360380341874,ZT217474746644283151875,ZT217474747104471771876,ZT217474747389971861878,ZT217474747540383561879))
-- **Delta:** 20 (15-35 all decent: [backtest](https://app.optionalpha.com/zdte/backtester/compare/ZT217543771766695351953,ZT217543772066218101954,ZT217543772383365051956,ZT217543773049922811957,ZT21756738591668549210), 25-30 better over past year) 
+- **Entry time:** 1:30pm ([backtest](https://app.optionalpha.com/zdte/backtester/compare/ZT2176831738822716290,ZT21768317990903370118))
+- **Delta:** 25 
 - **Notes:**  
-  - 1:45pm also solid return, similar return over [past year](https://app.optionalpha.com/zdte/backtester/compare/ZT21756737839112788179,ZT21756738263780798195). 
+ - 11:30ish was good until past few months
+ - choppy kind of overall, but has been good over past year
  - [VIX backtest](https://app.optionalpha.com/zdte/backtester/compare/ZT217543773049922811957,ZT21756738979431574220,ZT21756739003471908222,ZT21756739051736774223,ZT21756739094718076224)
-- **Results:** Profit: $7500; max drawdown 1210; profit factor 1.74
+- **Results:** Profit: $5500; max drawdown 1800; profit factor 1.51
 
 ### Wednesday
 - **Entry time:** 12:05pm([backtest](https://app.optionalpha.com/zdte/backtester/compare/ZT2175681487961416120,ZT2175681488894395822,ZT2175681490044391925,ZT2175681491040640726,ZT2175681491862347327))

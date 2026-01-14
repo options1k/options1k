@@ -1,5 +1,5 @@
 ---
-title: Another terrible week - Weekly summary (Dec 8 - Nov 12)
+title: Another terrible week - Weekly summary (Dec 8 - Dec 12)
 description: Review of trades from past week
 date: 2025-12-14
 tags:

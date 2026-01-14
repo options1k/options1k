@@ -91,22 +91,12 @@ A good win for 0dte/1dte trades.  First in a long time it feels.
 |---|---|
 |0DTE / 1DTE trades|$433.37|
 |Other trades|$77.28|
-|**NET PROFIT / LOSS**|**-$1201.46**|
+|**NET PROFIT / LOSS**|**510.65**|
 
 </div>
 
 ## Notes, Lessons and Thoughts
 
-It's been a rough past couple months.
+First winnning week in a long time.
 
-Ever since that nasty slippage day back in October, can't seem to catch a break.
-
-Been tweaking stuff and making random trades trying to claw some profits out, but nothing working.  It's probably all in my head though, and would be better off sticking to the plan.
-
-### GEX trades
-
-I started making a whole bunch of trades based on GEX this past week (and lost around $100).  
-
-I don't fully understand it, but feel like I need to make trades to get a better grasp of how the price moves with GEX.
-
-I think I will risk 1-2% per week experimenting with these trades.
+Nice way to start the new year.
