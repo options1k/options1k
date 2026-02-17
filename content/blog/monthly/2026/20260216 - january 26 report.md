@@ -24,7 +24,7 @@ Here are the trade breakdowns for January 2026:
 
 ## January 2025 Closed Trades
 
-<div class="trade-table monthly full-width">
+<div class="trade-table monthly-2026 full-width">
 
 | MONTHLY REPORT (CLOSED TRADES) |                  |          |        |          |          | -$1,735.49 | -$369.80   | -$2,105.29  |
 |--------------------------------|------------------|----------|--------|----------|----------|------------|------------|-------------|
