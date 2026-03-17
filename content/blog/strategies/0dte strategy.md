@@ -10,7 +10,7 @@ permalink: "/0dte-strategy/"
 
 ---
 
-On this page is a collection of 0DTE strategies I currently use.  
+On this page is a collection of 0DTE strategies I currently use.
 
 - [SPX METF](#spx-metf-strategy)
 - [$5 Iron Condor Strategy on SPX](#spx-5-iron-condor-strategy)
@@ -23,7 +23,7 @@ On this page is a collection of 0DTE strategies I currently use.
 
 This is a strategy I first read about on [thetaprofits blog](https://www.thetaprofits.com/how-to-trade-the-metf-0dte-options-strategy/) -- called the METF (Multiple Entry Trend Following) 0DTE Options Strategy.
 
-At certain/multiple times during the day, you compare two EMA lines (exponential moving average) on `SPX`.  If the shorter EMA (i.e. 20) is above the longer EMA (i.e. 50), then it indicates an uptrend.  
+At certain/multiple times during the day, you compare two EMA lines (exponential moving average) on `SPX`.  If the shorter EMA (i.e. 20) is above the longer EMA (i.e. 50), then it indicates an uptrend.
 
 In an uptrend, you sell a bull put spread (i.e. put credit spread).
 
@@ -31,13 +31,13 @@ In a downtrend, you would sell a bear call spread.
 
 That's it.
 
-The exact EMAs to use (i.e. 5, 20, 40, etc.), time of day, chart time frame (i.e. 1min, 5min), strike prices, target credit/premium, stop loss, etc., depends on individual preferences.  
+The exact EMAs to use (i.e. 5, 20, 40, etc.), time of day, chart time frame (i.e. 1min, 5min), strike prices, target credit/premium, stop loss, etc., depends on individual preferences.
 
 Here are the parameters I currently use:
 
 ### Entry Parameters
 
-- Ticker: `SPX` 
+- Ticker: `SPX`
 - 20/40 EMAs on a 1min chart;  if 20 is above 40 on specified entry time, then enter a Bull Put Spread; if 20 is below 40, then enter a Bear Call Spread.
 - Target credit: 0.85 - 1.25 (i.e. minimum premium received is $0.85 per spread, max $1.25)
 - Strike spread width:  Min spread of 40 points; Max spread of 70 points (e.g. Sell put is 5000; buy put is 4930)
@@ -56,7 +56,7 @@ Will share my spreadsheet of best times later on.
 
 ### Exit
 
-- **Stop loss**: 100% of credit received.  
+- **Stop loss**: 100% of credit received.
   - E.g:  If I receive $1 credit from selling my initial bull or bear credit spread, then I will exit the trade if the price to buy back the spread is $2 (i.e. net loss of $1).
   - Will experiment with putting stop loss on entire spread, or just the short leg.
 
@@ -67,9 +67,9 @@ Will share my spreadsheet of best times later on.
 
 ### Allocation
 
-Maximum 1% loss per day (of portfolio size).  
+Maximum 1% loss per day (of portfolio size).
 
-If my portfolio is around $30k, then my max loss is about $300 per day.  
+If my portfolio is around $30k, then my max loss is about $300 per day.
 
 Since my target credit is around $1, and my stop loss is 100% of credit, then my maximum loss per trade is also $1.
 
@@ -81,16 +81,16 @@ May experiment with looking at max 5% loss per week instead of 1% per day, so I 
 
 ### Automation
 
-I am currently using [Trade Automation Toolbox](https://tradeautomationtoolbox.com/) (i.e. TAT) to automate my 0DTE trades.  
+I am currently using [Trade Automation Toolbox](https://tradeautomationtoolbox.com/) (i.e. TAT) to automate my 0DTE trades.
 
-It is a bit pricey for beginners ($50/month subscription + $40/month Windows VPS cost), but has worked well so far.  
+It is a bit pricey for beginners ($50/month subscription + $40/month Windows VPS cost), but has worked well so far.
 
 Hopefully I can make enough to cover the subscription costs. 😅
 
 
 ### Notes / Thoughts on EMA/METF Strategy
 
-The METF strategy has been profitable the first couple months of testing it.  Hopefully, I can scale it up over time.  
+The METF strategy has been profitable the first couple months of testing it.  Hopefully, I can scale it up over time.
 
 It can be pretty hard to look at the losing days.  The automation software helps a lot with this, as you can just ignore it for a day and let everything run.  I did trade manually at first as I thought the automation software was a bit expensive.  I thought about coding my own basic version, but I am pretty satisfied with TAT right now.
 
@@ -118,33 +118,34 @@ Here are my current optimal setups by day:
 
 ### Monday
 - **Entry time:** 9:40am ([backtest](https://app.optionalpha.com/zdte/backtester/compare/ZT217621735083639191238,ZT217621735656900801240,ZT217474737703108341847,ZT217474737960967671848,ZT217474738365520371850))
-- **Delta:** 25 - 35 (25 is better - [backtest](https://app.optionalpha.com/zdte/backtester/compare/ZT21756656679071427279,ZT21756656722239838288,ZT21756656773486275290,ZT21756656892673924294,ZT21756657656210285319)) 
-- **Notes:**  
+- **Delta:** 25 - 35 (25 is better - [backtest](https://app.optionalpha.com/zdte/backtester/compare/ZT21756656679071427279,ZT21756656722239838288,ZT21756656773486275290,ZT21756656892673924294,ZT21756657656210285319))
+- **Notes:**
   - 1:45pm, 25delta has similar results
   - 9:40am exactly has best results [backtest](https://app.optionalpha.com/zdte/backtester/compare/ZT21756656679071427279,ZT21756657008012684298,ZT21756657343592485303,ZT21756657808043656334,ZT21756657845840949338)
 - **Results:** Profit: 5277; max drawdown 1517; profit factor 1.42
 
 ### Tuesday
 - **Entry time:** 1:30pm ([backtest](https://app.optionalpha.com/zdte/backtester/compare/ZT2176831738822716290,ZT21768317990903370118))
-- **Delta:** 25 
-- **Notes:**  
- - 11:30ish was good until past few months
- - choppy kind of overall, but has been good over past year
- - [VIX backtest](https://app.optionalpha.com/zdte/backtester/compare/ZT217543773049922811957,ZT21756738979431574220,ZT21756739003471908222,ZT21756739051736774223,ZT21756739094718076224)
+- **Delta:** 25
+- **Notes:**
+	- 11:30ish was good until past few months
+	- choppy kind of overall, but has been good over past year
+	- [VIX backtest](https://app.optionalpha.com/zdte/backtester/compare/ZT217543773049922811957,ZT21756738979431574220,ZT21756739003471908222,ZT21756739051736774223,ZT21756739094718076224)
+	- VIX > 16 has better [backtest](https://app.optionalpha.com/zdte/backtester/compare/ZT2177376247085328862,ZT2177376253846958663,ZT2177376271433999267)
 - **Results:** Profit: $5500; max drawdown 1800; profit factor 1.51
 
 ### Wednesday
 - **Entry time:** 12:05pm([backtest](https://app.optionalpha.com/zdte/backtester/compare/ZT2175681487961416120,ZT2175681488894395822,ZT2175681490044391925,ZT2175681491040640726,ZT2175681491862347327))
 - **Delta:** 30-40 ([backtest](https://app.optionalpha.com/zdte/backtester/compare/ZT217677739640999841541,ZT217677740136224031542,ZT217677740792212171545,ZT217677744306256461552,ZT217677744812327531553))
-- **Notes:**  
-  - bumpy results, but good over past 6 months, didn't trade it when I should've 
+- **Notes:**
+  - bumpy results, but good over past 6 months, didn't trade it when I should've
 - **Results:** Profit: 3311; max drawdown 2512; profit factor 1.22
 
 ### Thursday
 - **Entry time:** Don't trade; negative returns over past year ([backtest](https://app.optionalpha.com/zdte/backtester/compare/ZT217677764462060621586,ZT217677764378021941585,ZT217677764289335981584,ZT217677765543397741589,ZT217677764591817761587))
 - **Delta:** n/a
 - **Notes:**  Was OK until 2025, then has been straight downhill.
-- **Results:** 
+- **Results:**
 
 ### Friday
 - **Entry time:** 3:05pm-3:20pm ([backtest](https://app.optionalpha.com/zdte/backtester/compare/ZT217474794092906171954,ZT217474794219033721955,ZT217474794362378181956,ZT217474794460919001958,ZT217474794594404621959))[Backtest](https://app.optionalpha.com/zdte/backtester/compare/ZT217654393231590261148,ZT217654393476020581149,ZT217654393648516361150,ZT217654393818667811151,ZT217654395704562801152)
@@ -162,24 +163,24 @@ Strategy performs worse in low VIX (<15) environments.  May consider not trading
 
 Here is backtest of baseline strategy with VIX comparisons: [Backtest](https://app.optionalpha.com/zdte/backtester/compare/ZT21756655562386687232,ZT21756655702926506235,ZT21756655749408994236,ZT21756655782363812239,ZT21756655954079356246)
 - green line is VIX < 15
-- 
+-
 -----
 
 ## Hybrid IC Strategy SPX
 
-I thought to further build on the above iron condor strategy by splitting it into separate parts.  
+I thought to further build on the above iron condor strategy by splitting it into separate parts.
 
 Basically, enter the put side and call side at different times/deltas to see if it improves results.
 
 Initially, here were the baseline tests:
 
 PUT CREDIT SPREAD:
- - 30 delta, bull put spread everyday at 2:30pm 
+ - 30 delta, bull put spread everyday at 2:30pm
  - SPX > daily 10ema
  - [Backtest](https://app.optionalpha.com/zdte/backtester/test/ZT21747493634159626453)
 
 CALL CREDIT SPREAD
- - 25 delta, bear call spread everyday at 3:00pm 
+ - 25 delta, bear call spread everyday at 3:00pm
  - VIX<25
  - [Backtest](https://app.optionalpha.com/zdte/backtester/test/ZT21743608510600244157)
 
@@ -217,8 +218,8 @@ Leg into iron condors on Tuesday and Friday based on times above.
 
 ## ORB
 
-ORB stands for "Opening Range Breakout", and is a common strategy among 0DTE traders.  
+ORB stands for "Opening Range Breakout", and is a common strategy among 0DTE traders.
 
 Basically, you look at the highest and lowest price of a certain period after market opens.  For example, a 60 minute ORB would look at the highest and lowest price during the first hour of the market.
 
-If the price breaks through one of the extremes, then you make a trade.  
+If the price breaks through one of the extremes, then you make a trade.
